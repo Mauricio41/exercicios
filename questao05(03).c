@@ -7,7 +7,7 @@ float are_c(float R){
     return result;
 }
 
-int main(void){
+int main(){
 	float raio, area;
 	
 	printf("RAIO = "); 
